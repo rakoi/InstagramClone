@@ -19,11 +19,4 @@ npm run build
 ```
 npm run test
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Demo of the project can be found at https://instaclone-f47f8.web.app/

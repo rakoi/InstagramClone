@@ -15,8 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
 Demo of the project can be found at https://instaclone-f47f8.web.app/
